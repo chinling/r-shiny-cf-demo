@@ -11,6 +11,9 @@ $ cf set-health-check r-shiny-cf-demo none
 $ cf push r-prototype -b https://github.com/chinling/cf-buildpack-r
 ```
 
+Note that health check must be turned off, otherwise the push would not be
+successful due to timeout
+
 ## Miscellaneous
 - Instruction on building R from source
 -- http://kbroman.org/pkg_primer/pages/build.html
