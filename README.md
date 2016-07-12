@@ -21,3 +21,5 @@ successful due to timeout
 - Instruction on how to build a R binary for CF buildpack
 -- https://github.com/chinling/r-buildpack-binary
 
+- Deployed R app with Shiny crash with 'could not find function "httpdPort"'
+-- https://stackoverflow.com/questions/36401466/deployed-r-app-with-shiny-crash-with-could-not-find-function-httpdport
