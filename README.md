@@ -7,8 +7,8 @@ The code contains originals adapted from:
 
 ## Usage
 ```
+$ cf set-health-check r-shiny-cf-demo none
 $ cf push r-prototype -b https://github.com/chinling/cf-buildpack-r
-$ cf set-health-check r-prototype none
 ```
 
 ## Miscellaneous
