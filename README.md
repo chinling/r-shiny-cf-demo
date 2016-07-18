@@ -23,3 +23,5 @@ successful due to timeout
 
 - Deployed R app with Shiny crash with 'could not find function "httpdPort"'
 -- https://stackoverflow.com/questions/36401466/deployed-r-app-with-shiny-crash-with-could-not-find-function-httpdport
+
+
